@@ -1,6 +1,6 @@
 ---
 name: Whiskey
-image: whiskey.png
+image: images/whiskey.jpg
 description: Trouble maker
 role: phd
 ---
