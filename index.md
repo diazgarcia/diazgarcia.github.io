@@ -4,8 +4,7 @@ title: Home
 
 # Your Lab Slogan
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+[The Grapevine Breeding Program] at The University of California - Davis is part of the [Viticulture and Enology Department](https://wineserver.ucdavis.edu/#/), which for more than 135 years, has driven innovation in grape growing and winemaking for California, as well as the rest of the world. 
 
 {%
   include link.html
