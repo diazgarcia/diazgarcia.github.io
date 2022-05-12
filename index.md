@@ -2,9 +2,9 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# GRAPEVINE BREEDING PROGRAM
 
-[The Grapevine Breeding Program] at The University of California - Davis is part of the [Viticulture and Enology Department](https://wineserver.ucdavis.edu/#/), which for more than 135 years, has driven innovation in grape growing and winemaking for California, as well as the rest of the world. 
+The Grapevine Breeding Program at The University of California - Davis is part of the [Viticulture and Enology Department](https://wineserver.ucdavis.edu/#/), which for more than 135 years, has driven innovation in grape growing and winemaking for California, as well as the rest of the world. 
 
 
 
