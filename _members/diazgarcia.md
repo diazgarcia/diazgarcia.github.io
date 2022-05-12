@@ -2,6 +2,7 @@
 name: Luis Diaz-Garcia
 image: images/diazgarcia.JPG
 description: Principal Investigator
+role: pi
 links:
   home-page: annechovie.com
   email: ladiazgarcia2@gmail.com

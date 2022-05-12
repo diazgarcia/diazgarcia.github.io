@@ -2,7 +2,7 @@
 name: Whiskey
 image: whiskey.png
 description: Trouble maker
-role: Honorary Ph.D.
+role: phd
 ---
 
 Whiskey is a trouble maker dog
