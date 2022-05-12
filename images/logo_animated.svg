@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+	 viewBox="0 0 100 100" style="overflow: visible" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#4DAF4C;}
 </style>
@@ -19,7 +19,6 @@
 		attributeName="fill"
 		attributeType="XML"
 		values="#4DAF4C;#fff;#4DAF4C"
-		
 		begin="1s"
 		dur="5s"
     	repeatCount="indefinite" />
@@ -50,7 +49,7 @@
     	repeatCount="indefinite" />
 
 </polygon>
-<path class="st0" d="M63.74,54.01v0.61l0.35,0.44l-1,0.79l0.56,0.78l0.44,0.58l-0.61,0.43l-1.4,0.04l-1.18-0.23v0.41l-0.83-0.41
+<polygon class="st0" d="M63.74,54.01v0.61l0.35,0.44l-1,0.79l0.56,0.78l0.44,0.58l-0.61,0.43l-1.4,0.04l-1.18-0.23v0.41l-0.83-0.41
 	l0.09,0.58l-0.87-0.13l-0.7-0.45l-0.48-0.24l-0.66-0.27l-0.61,0.04l-0.31,0.92l1.31,0.61l1.05,0.09l-0.43,0.65l0.69,0.72l1.31,0.72
 	l0.88,1.14l-1.01,0.13v0.44h-1.04v0.43l-1.01-0.21c0,0,0.13,0.52,0,0.56c-0.13,0.05-0.7,0.22-0.7,0.22l-0.96-0.04l-0.43,0.74
 	l-0.97-0.35l-0.78-0.17l-1.22-0.57l-1.66-1.05l-0.61-0.87l-0.27-0.96l-0.78-0.44l-0.05-0.57l0.57-0.52l0.26-1.15l-0.26-1.04
@@ -78,6 +77,5 @@
     	repeatCount="indefinite" />
 
 </polygon>
-
 
 </svg>
