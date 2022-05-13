@@ -1,11 +1,16 @@
 ---
 name: Luis Diaz-Garcia
 image: images/diazgarcia.JPG
-description: Principal Investigator
 role: pi
+aliases:
+  - Luis Diaz-Garcia
+  - L Diaz-Garcia
+  - Luis Diaz
+  - Luis A. Diaz-Garcia
 links:
   email: ladiazgarcia2@gmail.com
   github: diazgarcia
+  orcid: 0000-0002-3984-5516
   twitter: cranberrysds
 ---
 
