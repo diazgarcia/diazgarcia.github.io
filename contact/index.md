@@ -8,6 +8,7 @@ nav:
 # <i class="fas fa-envelope"></i>Contact
 
 The Diaz-Garcia lab is part of the [Viticulture and Enology Department](https://wineserver.ucdavis.edu/#/) at UC Davis.
+{:.center}
 
 {%
   include link.html
@@ -25,7 +26,7 @@ The Diaz-Garcia lab is part of the [Viticulture and Enology Department](https://
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/Davis,+CA,+USA/@38.5329503,-121.7509897,117m/data=!3m1!1e3!4m5!3m4!1s0x808529999495543f:0xc3013f1b6ee28fff!8m2!3d38.5449065!4d-121.7405167"
+  link="https://goo.gl/maps/LTj9avFKvN63SdnJ9"
   style="button"
 %}
 {:.center}
