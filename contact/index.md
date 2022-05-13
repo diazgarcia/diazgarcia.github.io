@@ -19,7 +19,6 @@ The Diaz-Garcia lab is part of the [Viticulture and Enology Department](https://
   link="diazgarcia@ucdavis.edu"
   style="button"
 %}
-
 {%
   include link.html
   type="address"
