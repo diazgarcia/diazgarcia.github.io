@@ -31,12 +31,23 @@ nav:
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+### Join us!
+Prospective graduate students interested in doing grapevine breeding/genetics/genomics research are encouraged to apply through the xxx and xxx graduate programs at the Plant Sciences Department. Depending on common interests, experience, and academic background, students enrolled in Viticulture and Enology BS/MS programs at UC Davis might join the lab. We are a multidisciplinary team; prospective members of the lab (undergrads, grads, or postdocs) with computing science, engineering, physics, or other similar fields, are welcome to discuss lab opportunities. For international students, please consider funding agencies in their respective countries. In any case, please send a letter/email explaining your interests and reasons to join the lab, along with a CV detailing your academic background, and relevant research experience to diazgarcia@ucdavis.edu. Before contacting, please research the lab, read our papers, and think about how we could work together. 
+
+Open positions we need to fill in soon are listed below
+
+
+### Manifiesto
+
+ - We are more when we work together 
+ - Independence in a supportive environment 
+ - Scientists are humans too
+ - Relationships built on trust
+
 
 {% include section.html %}
 
-## Join us!
+## Open positions
 
 {% include section.html %}
 
