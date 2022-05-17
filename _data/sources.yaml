@@ -1,9 +1,9 @@
 - id: doi:10.1016/j.pbi.2021.102150
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1369526621001515-gr1_lrg.jpg
   date: 2021-12-6
-  #extra-links:
-  #  - type: manubot
-  #    link: https://greenelab.github.io/knowledge-graph-review/
+  extra-links:
+    - type: manubot
+      link: https://greenelab.github.io/knowledge-graph-review/
   tags:
     - phenomics
     - phenomic selection
