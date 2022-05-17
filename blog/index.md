@@ -19,5 +19,6 @@ nav:
 
 <!-- Twitter embeds from https://publish.twitter.com/ -->
 
-<a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/i/lists/140718324"> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/i/lists/140718324">Tweets by GreeneScientist</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {:.center}
+
