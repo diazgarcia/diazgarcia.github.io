@@ -5,7 +5,7 @@ nav:
   tooltip: Our germplasm collection
 ---
 
-# <i class="fas fa-tools"></i>Tools
+# <i class="fas fa-tools"></i>Germplasm
 
 Very soon
 
