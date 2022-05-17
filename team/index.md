@@ -47,7 +47,7 @@ Open positions we need to fill in soon are listed below
 
 {% include section.html %}
 
-## Open positions
+# Open positions
 
 {% include section.html %}
 
@@ -55,13 +55,13 @@ Open positions we need to fill in soon are listed below
 
 We have an open postodc position (2 years, renewable up to 4 years as post-doc) to work in the development and implementation of high-throughput, high-dimensional phenotyping strategies in grapes. This research project will involve the deployment of rovers and UAVs in the vineyard for LIDAR data acquisition, the establishment of stations for leaf phenotyping, and a variety of other phenomics pipelines. The postdoc will work on a diverse collection of Vitis germplasm, including major cultivars, as well as wild species of relevance for breeding. The postdoc will be expected to share findings with stakeholders at grower meetings and outreach events, supporting the mentoring of students, and publishing results in peer-reviewed journals. We expected a strong collaboration with the [Earles Lab](https://wineserver.ucdavis.edu/people/mason-earles#/). Stipend and benefits will be [standard for UC Davis](https://gradstudies.ucdavis.edu/understanding-your-student-salary). Potential exist for a permanent position, after the postdoc, if candidate can successfully lead the area of phenomics and work as a team member with the rest of the grapevine breeding team.
 
-## Qualifications
+#### Qualifications
  
  - Strong background in computer science, engineering, programming (experience in plant biology/genetics/genomics is a big plus)
  - Excellent written and verbal communication skills
  - Be available to start working in Jan, 2023
 
-## Application
+#### Application
 
 Please email Luis Diaz-Garcia (diazgarcia@ucdavis.edu) the following documents. This position is available to start as soon as September 2022, or as soon as a candidate is available.
 
@@ -75,7 +75,7 @@ Please email Luis Diaz-Garcia (diazgarcia@ucdavis.edu) the following documents. 
 
 We are hiring a Ph.D. student to work in grape genetics and genomics, particularly for mapping traits related to resistant/tolerance to biotic and abiotic stresses. 
 
-## Qualifications
+#### Qualifications
  
  - Applicants must meet the qualifications for the [Agronomy and Horticulture graduate program](https://ggha.ucdavis.edu)
  - Research experience in plant biology, genetics, genomics, or related area
@@ -83,7 +83,7 @@ We are hiring a Ph.D. student to work in grape genetics and genomics, particular
  - Excellent written and verbal communication skills
  - Be available to start working in Jan, 2023
 
-## Application
+#### Application
 
 Please email Luis Diaz-Garcia (diazgarcia@ucdavis.edu) the following documents. The position will remain open and we will receive applications until filling the position.
 
