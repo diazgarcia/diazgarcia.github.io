@@ -17,8 +17,7 @@ The Grapevine Breeding Program at The University of California - Davis is part o
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our breeding program develops high-quality grape cultivars and rootstocks resistant/tolerant to diseases, pests, and other stresses in the environment. For this purpose, we use the large genetic and phenotypic diversity found across many American Vitis species. Our group collaborates with other research groups and extensionists in areas such as genomics, population genetics, plant physiology, machine learning, engineering, and others. 
 
 {%
   include link.html
@@ -39,13 +38,12 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Our breeding program at UC Davis houses one of the largest collection of Vitis germplasm of the world. Germplasm collections made by Drs. Harold Olmo (breeder from xxxx-xxxx) and Andy Walker (breeder from xxxx-xxxx) for more than six decades resulted in more than xxxx accessions, representing xxx species and more than xxx countries. 
 
 {%
   include link.html
   link="tools"
-  text="Browse our tools"
+  text="See a catalog of our germplasm"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -56,13 +54,13 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   include feature.html
   image="images/photo.jpg"
   link="resources"
-  title="Our Resources"
+  title="Our germplasm resources"
   flip=true
   text=text
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are a multidisciplinary team working towards the generation of high-quality grapes in CA.
 
 {%
   include link.html
@@ -81,6 +79,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Our Team"
   text=text
 %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.

@@ -32,12 +32,12 @@ nav:
 {% include section.html background="images/niebla2.png" dark=true%}
 
 ### Join us!
-Prospective graduate students interested in doing grapevine breeding/genetics/genomics research are encouraged to apply through the xxx and xxx graduate programs at the Plant Sciences Department. Depending on common interests, experience, and academic background, students enrolled in Viticulture and Enology BS/MS programs at UC Davis might join the lab. We are a multidisciplinary team; prospective members of the lab (undergrads, grads, or postdocs) with computing science, engineering, physics, or other similar fields, are welcome to discuss lab opportunities. For international students, please consider funding agencies in their respective countries. In any case, please send a letter/email explaining your interests and reasons to join the lab, along with a CV detailing your academic background, and relevant research experience to diazgarcia@ucdavis.edu. Before contacting, please research the lab, read our papers, and think about how we could work together. 
+Prospective graduate students interested in doing grapevine breeding/genetics/genomics research are encouraged to apply through the [Agronomy and Horticulture graduate program](https://ggha.ucdavis.edu). Depending on common interests, experience, and academic background, students enrolled in Viticulture and Enology BS/MS programs at UC Davis might join the lab. We are a multidisciplinary team; prospective members of the lab (undergrads, grads, or postdocs) with computing science, engineering, physics, or other similar fields, are welcome to discuss lab opportunities. For international students, please consider funding agencies in their respective countries. In any case, please send a letter/email explaining your interests and reasons to join the lab, along with a CV detailing your academic background, and relevant research experience to diazgarcia@ucdavis.edu. Before contacting, please research the lab, read our papers, and think about how we could work together. 
 
 Open positions we need to fill in soon are listed below
 
 
-### Manifiesto
+### Manifesto
 
  - We are more when we work together 
  - Independence in a supportive environment 
@@ -51,22 +51,46 @@ Open positions we need to fill in soon are listed below
 
 {% include section.html %}
 
-#### Vegetable Breeding Technician (Research Specialist II)
+### Postdoc - Phenomics
 
-We are hiring a technician to help start and run a vegetable breeding program focused on improving flavor and nutritional quality. This full time, in-person position will be located at the Clemson University Pee Dee Research & Education Center in Florence, SC.
+We have an open postodc position (2 years, renewable up to 4 years as post-doc) to work in the development and implementation of high-throughput, high-dimensional phenotyping strategies in grapes. This research project will involve the deployment of rovers and UAVs in the vineyard for LIDAR data acquisition, the establishment of stations for leaf phenotyping, and a variety of other phenomics pipelines. The postdoc will work on a diverse collection of Vitis germplasm, including major cultivars, as well as wild species of relevance for breeding. The postdoc will be expected to share findings with stakeholders at grower meetings and outreach events, supporting the mentoring of students, and publishing results in peer-reviewed journals. We expected a strong collaboration with the [Earles Lab](https://wineserver.ucdavis.edu/people/mason-earles#/). Stipend and benefits will be [standard for UC Davis](https://gradstudies.ucdavis.edu/understanding-your-student-salary). Potential exist for a permanent position, after the postdoc, if candidate can successfully lead the area of phenomics and work as a team member with the rest of the grapevine breeding team.
 
- - Responsible for providing support to plant breeding laboratory and field research
- - Expected to assist in a variety of advanced analytical techniques and perform other duties as assigned
- - Apply by May 20, 2022
+## Qualifications
+ 
+ - Strong background in computer science, engineering, programming (experience in plant biology/genetics/genomics is a big plus)
+ - Excellent written and verbal communication skills
+ - Be available to start working in Jan, 2023
 
-{% include link.html type="external" link="https://wineserver.ucdavis.edu/#/ " text="Apply Now" icon="" style="button" %}
-{:.center}
+## Application
 
-#### Graduate Students
+Please email Luis Diaz-Garcia (diazgarcia@ucdavis.edu) the following documents. This position is available to start as soon as September 2022, or as soon as a candidate is available.
 
-Up to three graduate (MS or PhD) student assistantships are available to start in the lab as soon as summer 2022. The students will reside in Clemson, SC in the first year of the graduate program to fulfill course requirements. Primary field and laboratory research will take place at the Clemson Pee Dee Research & Education Center, which is a 2,300 acre site located in Florence, SC that is positioned in the heart of SC agriculture.
+ - CV
+ - Cover letter describing how candidates meet the above qualifications,and the candidate’s research interests and career goals
+ - Most recent transcripts
+ - Contact information (email and current position) for three references
+ - For international applicants, please check the [SISS](https://siss.ucdavis.edu) for more information about VISA, TOEFL, employment authorization, and other requirements
 
-To apply, email a CV and a brief description of experience and career goals to Jenna Hershberger. Applications will be reviewed on a rolling basis (no formal deadline) with openings available as early as summer or fall 2022. For full admissions details, visit the [Online Graduate Application](https://www.clemson.edu/graduate/admissions/apply/).
+### Ph.D. student - Genetics of biotic and abiotic resistance/tolerance
 
+We are hiring a Ph.D. student to work in grape genetics and genomics, particularly for mapping traits related to resistant/tolerance to biotic and abiotic stresses. 
+
+## Qualifications
+ 
+ - Applicants must meet the qualifications for the [Agronomy and Horticulture graduate program](https://ggha.ucdavis.edu)
+ - Research experience in plant biology, genetics, genomics, or related area
+ - Programming skills (R or Python) are strongly desired
+ - Excellent written and verbal communication skills
+ - Be available to start working in Jan, 2023
+
+## Application
+
+Please email Luis Diaz-Garcia (diazgarcia@ucdavis.edu) the following documents. The position will remain open and we will receive applications until filling the position.
+
+ - CV
+ - Cover letter describing how candidates meet the above qualifications,and the candidate’s research interests and career goals
+ - Most recent transcripts (undergraduate or graduate)
+ - Contact information (email and current position) for three references
+ - For international students, please check the [SISS](https://siss.ucdavis.edu) for more information about VISA, TOEFL, employment authorization, and other requirements
 
 {% include section.html %}
