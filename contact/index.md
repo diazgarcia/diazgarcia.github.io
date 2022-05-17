@@ -43,15 +43,15 @@ United States
 {% capture col1 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="The Center for Wit and Sagacity"
+  image="images/UC-Davis-aerial-water-tower.jpg"
+  caption="The University of California - Davis"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Department of Metaphor"
+  image="images/mondavi2.png"
+  caption="Viticulture and Enology"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
