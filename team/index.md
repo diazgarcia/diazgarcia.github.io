@@ -29,7 +29,7 @@ nav:
 %}
 {:.center}
 
-{% include section.html background="images/niebla2.png" dark=true%}
+{% include section.html background="images/niebla2.png" dark=false%}
 
 ### Manifesto
 
@@ -42,7 +42,7 @@ nav:
 ### Join us!
 Prospective graduate students interested in doing grapevine breeding/genetics/genomics research are encouraged to apply through the [Agronomy and Horticulture graduate program](https://ggha.ucdavis.edu). Depending on common interests, experience, and academic background, students enrolled in Viticulture and Enology BS/MS programs at UC Davis might join the lab. We are a multidisciplinary team; prospective members of the lab (undergrads, grads, or postdocs) with computing science, engineering, physics, or other similar fields, are welcome to discuss lab opportunities. For international students, please consider funding agencies in your respective country. In any case, please send a letter/email explaining your interests and reasons to join the lab, along with a CV detailing your academic background, and relevant research experience to diazgarcia@ucdavis.edu. Before contacting, please research the lab, read our papers, and think about how we could work together. 
 
-Open positions we need to fill in soon are listed below
+**Open positions we need to fill in soon are listed below**
 
 {% include section.html %}
 
@@ -52,11 +52,11 @@ Open positions we need to fill in soon are listed below
 
 ### Postdoc - Phenomics
 
-We have an open postdoc position (2 years, renewable up to 4 years as post-doc) to work in the development and implementation of high-throughput, high-dimensional phenotyping strategies in grapes. This research project will involve the deployment of rovers and UAVs in the vineyard for LIDAR data acquisition, the establishment of stations for leaf phenotyping, and a variety of other phenomics pipelines. The postdoc will work on a diverse collection of Vitis germplasm, including major cultivars, as well as wild species of relevance for breeding. The postdoc will be expected to share findings with stakeholders at grower meetings and outreach events, supporting the mentoring of students, and publishing results in peer-reviewed journals. We expect a strong collaboration with the [Earles Lab](https://wineserver.ucdavis.edu/people/mason-earles#/). Stipend and benefits will be [standard for UC Davis](https://gradstudies.ucdavis.edu/understanding-your-student-salary). Potential exists for a permanent position, after the postdoc, if candidate can successfully lead the area of phenomics and work as a team member with the rest of the grapevine breeding group.
+We have an open postdoc position (2 years, renewable up to 4 years as post-doc) to work in the development and implementation of high-throughput, high-dimensional phenotyping strategies in grapes. This research project will involve the deployment of rovers and UAVs in the vineyard for LIDAR data acquisition, the establishment of stations for leaf and root phenotyping, and a variety of other phenomics procedures. Phenotyping data will be coupled with molecular information for gene mapping and marker-assisted breeding. The postdoc will work on a diverse collection of *Vitis* germplasm, including major cultivars, as well as wild species of relevance for breeding. The postdoc will be expected to share findings with stakeholders at grower meetings and outreach events, supporting the mentoring of students, and publishing results in peer-reviewed journals. Stipend and benefits will be [standard for UC Davis](https://gradstudies.ucdavis.edu/understanding-your-student-salary). Potential exists for a permanent position, after the postdoc, if candidate can successfully lead the area of phenomics and work as a team member with the rest of the grapevine breeding group.
 
 #### Qualifications
  
- - Strong background in computer science, engineering, programming (experience in plant biology/genetics/genomics is a big plus)
+ - Strong background in plant breeding, plant genomics, quantitative genetics, or related area, with experience running sensors, image analysis, UAVs, or other phenomics pipelines
  - Excellent written and verbal communication skills
  - Having published at least one research article as first/corresponding author
 
