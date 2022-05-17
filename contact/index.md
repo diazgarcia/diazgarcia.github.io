@@ -50,7 +50,7 @@ United States
 {% capture col2 %}
 {%
   include figure.html
-  image="images/mondavi2.png"
+  image="images/mondavi2.jpg"
   caption="Viticulture and Enology"
 %}
 {% endcapture %}
