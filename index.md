@@ -53,7 +53,7 @@ Our breeding program at UC Davis houses one of the largest collection of Vitis g
 {%
   include feature.html
   image="images/ambuloblanc.png"
-  link="resources"
+  link="tools"
   title="Our germplasm resources"
   flip=true
   text=text

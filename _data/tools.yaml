@@ -1,22 +1,23 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Camminare noir
+  subtitle: 07355-075
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/germplasm_andy/camminare_noir.png
+  link: https://fps.ucdavis.edu/fgrmain.cfm
+  description: 50% Petit Sirah, 25% Cab. Sauv.; early bloom, early ripening; moderate productivity; relatively large berries, medium-large clusters; tasting descriptions include dark red-purple in color, bright red fruit, raspberry, cherry, ripe, tannic and elegant rather than dense
+  #repo: greenelab/lab-website-template
   tags:
-    - resource
+    - Variety
+    - PD resistant
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Paseante noir
+  subtitle: 09331-047
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/germplasm_andy/paseante_noir.png
+  link: https://fps.ucdavis.edu/fgrmain.cfm
+  description: 50% Zinf., 25% Petit Sirah, 12.5% Cab Sauv.; late Bloom, mid-season ripening; moderate-low productivity; relative large berries, large clusters; it is spur fruitful but typically has only one cluster per shoot and is more productive with cane pruning; tasting comments include medium dark red with purple color, berry pie, cassis, black olive, herbal, dried hay, coffee, vegetal like Cab. Sauv., licorice, round, moderate tannins, and soft finish.
   tags:
-    - resource
+    - Variety
+    - PD resistant
 
 - title: Cool Tutorial
   group: more
@@ -27,21 +28,3 @@
   tags:
     - resource
     - publication
-
-- title: Cool Web App
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
