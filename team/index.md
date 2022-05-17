@@ -38,9 +38,9 @@ nav:
  - Scientists are humans too
  - Relationships built on trust
 
- 
+
 ### Join us!
-Prospective graduate students interested in doing grapevine breeding/genetics/genomics research are encouraged to apply through the [Agronomy and Horticulture graduate program](https://ggha.ucdavis.edu). Depending on common interests, experience, and academic background, students enrolled in Viticulture and Enology BS/MS programs at UC Davis might join the lab. We are a multidisciplinary team; prospective members of the lab (undergrads, grads, or postdocs) with computing science, engineering, physics, or other similar fields, are welcome to discuss lab opportunities. For international students, please consider funding agencies in their respective countries. In any case, please send a letter/email explaining your interests and reasons to join the lab, along with a CV detailing your academic background, and relevant research experience to diazgarcia@ucdavis.edu. Before contacting, please research the lab, read our papers, and think about how we could work together. 
+Prospective graduate students interested in doing grapevine breeding/genetics/genomics research are encouraged to apply through the [Agronomy and Horticulture graduate program](https://ggha.ucdavis.edu). Depending on common interests, experience, and academic background, students enrolled in Viticulture and Enology BS/MS programs at UC Davis might join the lab. We are a multidisciplinary team; prospective members of the lab (undergrads, grads, or postdocs) with computing science, engineering, physics, or other similar fields, are welcome to discuss lab opportunities. For international students, please consider funding agencies in your respective country. In any case, please send a letter/email explaining your interests and reasons to join the lab, along with a CV detailing your academic background, and relevant research experience to diazgarcia@ucdavis.edu. Before contacting, please research the lab, read our papers, and think about how we could work together. 
 
 Open positions we need to fill in soon are listed below
 
@@ -52,27 +52,27 @@ Open positions we need to fill in soon are listed below
 
 ### Postdoc - Phenomics
 
-We have an open postodc position (2 years, renewable up to 4 years as post-doc) to work in the development and implementation of high-throughput, high-dimensional phenotyping strategies in grapes. This research project will involve the deployment of rovers and UAVs in the vineyard for LIDAR data acquisition, the establishment of stations for leaf phenotyping, and a variety of other phenomics pipelines. The postdoc will work on a diverse collection of Vitis germplasm, including major cultivars, as well as wild species of relevance for breeding. The postdoc will be expected to share findings with stakeholders at grower meetings and outreach events, supporting the mentoring of students, and publishing results in peer-reviewed journals. We expected a strong collaboration with the [Earles Lab](https://wineserver.ucdavis.edu/people/mason-earles#/). Stipend and benefits will be [standard for UC Davis](https://gradstudies.ucdavis.edu/understanding-your-student-salary). Potential exist for a permanent position, after the postdoc, if candidate can successfully lead the area of phenomics and work as a team member with the rest of the grapevine breeding team.
+We have an open postdoc position (2 years, renewable up to 4 years as post-doc) to work in the development and implementation of high-throughput, high-dimensional phenotyping strategies in grapes. This research project will involve the deployment of rovers and UAVs in the vineyard for LIDAR data acquisition, the establishment of stations for leaf phenotyping, and a variety of other phenomics pipelines. The postdoc will work on a diverse collection of Vitis germplasm, including major cultivars, as well as wild species of relevance for breeding. The postdoc will be expected to share findings with stakeholders at grower meetings and outreach events, supporting the mentoring of students, and publishing results in peer-reviewed journals. We expect a strong collaboration with the [Earles Lab](https://wineserver.ucdavis.edu/people/mason-earles#/). Stipend and benefits will be [standard for UC Davis](https://gradstudies.ucdavis.edu/understanding-your-student-salary). Potential exists for a permanent position, after the postdoc, if candidate can successfully lead the area of phenomics and work as a team member with the rest of the grapevine breeding group.
 
 #### Qualifications
  
  - Strong background in computer science, engineering, programming (experience in plant biology/genetics/genomics is a big plus)
  - Excellent written and verbal communication skills
- - Be available to start working in Jan, 2023
+ - Having published at least one research article as first/corresponding author
 
 #### Application
 
 Please email Luis Diaz-Garcia (diazgarcia@ucdavis.edu) the following documents. This position is available to start as soon as September 2022, or as soon as a candidate is available.
 
  - CV
- - Cover letter describing how candidates meet the above qualifications,and the candidate’s research interests and career goals
+ - Cover letter describing how candidates meet the above qualifications and the candidate’s research interests and career goals
  - Most recent transcripts
  - Contact information (email and current position) for three references
  - For international applicants, please check the [SISS](https://siss.ucdavis.edu) for more information about VISA, TOEFL, employment authorization, and other requirements
 
 ### Ph.D. student - Genetics of biotic and abiotic resistance/tolerance
 
-We are hiring a Ph.D. student to work in grape genetics and genomics, particularly for mapping traits related to resistant/tolerance to biotic and abiotic stresses. 
+We are hiring a Ph.D. student to work in grape genetics and genomics, particularly for mapping traits related to resistance/tolerance to biotic and abiotic stresses. 
 
 #### Qualifications
  
@@ -80,7 +80,7 @@ We are hiring a Ph.D. student to work in grape genetics and genomics, particular
  - Research experience in plant biology, genetics, genomics, or related area
  - Programming skills (R or Python) are strongly desired
  - Excellent written and verbal communication skills
- - Be available to start working in Jan, 2023
+ - Be available to start working in January 2023
 
 #### Application
 
