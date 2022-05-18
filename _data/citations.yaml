@@ -1,0 +1,169 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
+# See https://github.com/greenelab/lab-website-template/wiki/Citations
+
+- id: doi:10.3390/genes12121962
+  title: The Genetic Basis of Anthocyanin Acylation in North American Grapes (Vitis
+    spp.)
+  authors:
+  - Avinash Karn
+  - Luis Diaz-Garcia
+  - Noam Reshef
+  - Cheng Zou
+  - David C. Manns
+  - Lance Cadle-Davidson
+  - Anna Katharine Mansfield
+  - Bruce I. Reisch
+  - Gavin L. Sacks
+  publisher: Genes
+  date: '2021-12-09'
+  link: https://doi.org/gp58qq
+  image: https://www.mdpi.com/genes/genes-12-01962/article_deploy/html/images/genes-12-01962-g003.png
+  tags:
+  - grape
+  - anthocyanin acylation
+  - anthocyanins
+  - geneetic mapping
+  - wine pigments
+  - rhAmpSeq
+- id: doi:10.1007/s00438-018-1464-z
+  title: Massive phenotyping of multiple cranberry populations reveals novel QTLs
+    for fruit anthocyanin content and other important chemical traits
+  authors:
+  - Luis Diaz-Garcia
+  - Brandon Schlautman
+  - Giovanny Covarrubias-Pazaran
+  - Andrew Maule
+  - Jennifer Johnson-Cicalese
+  - Edward Grygleski
+  - Nicholi Vorsa
+  - Juan Zalapa
+  publisher: Molecular Genetics and Genomics
+  date: '2018-07-02'
+  link: https://doi.org/gk9xdr
+  image: images/papers/color_cranberry.png
+  tags:
+  - cranberry
+  - genetic mapping
+  - anthocyanins
+- id: doi:10.2135/cropsci2018.11.0692
+  title: "Mega\u2010Environmental Design: Using Genotype \xD7 Environment Interaction\
+    \ to Optimize Resources for Cultivar Testing"
+  authors:
+  - "Pablo Gonz\xE1lez\u2010Barrios"
+  - "Luis D\xEDaz\u2010Garc\xEDa"
+  - "Luc\xEDa Guti\xE9rrez"
+  publisher: Crop Science
+  date: '2019-08-15'
+  link: https://doi.org/gp58qk
+  image: images/papers/med.png
+  tags:
+  - experimental design
+  - resource allocation
+  - simulation
+  - plant breeding
+- id: doi:10.1371/journal.pone.0222451
+  title: Comprehensive analysis of the internal structure and firmness in American
+    cranberry (Vaccinium macrocarpon Ait.) fruit
+  authors:
+  - Luis Diaz-Garcia
+  - Lorraine Rodriguez-Bonilla
+  - Matthew Phillips
+  - Arnoldo Lopez-Hernandez
+  - Edward Grygleski
+  - Amaya Atucha
+  - Juan Zalapa
+  publisher: PLOS ONE
+  date: '2019-09-25'
+  link: https://doi.org/gp58qm
+  image: images/papers/internal_structure.png
+  tags:
+  - cranberry
+  - image analysis
+  - fruit quality traits
+- id: doi:10.1016/j.plantsci.2019.110319
+  title: 'Morphometric approaches to promote the use of exotic germplasm for improved
+    food security and resilience to climate change: a kura clover example'
+  authors:
+  - Brandon Schlautman
+  - Luis Diaz-Garcia
+  - Spencer Barriball
+  publisher: Plant Science
+  date: '2020-01-01'
+  link: https://doi.org/ggj8vf
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0168945219308982-gr6.sml
+  tags:
+  - kura clover
+  - image analysis
+  - genetic diversity
+  - core collection
+  - germplasm conservation
+- id: doi:10.3389/fpls.2020.607770
+  title: Genotyping-by-Sequencing Identifies Historical Breeding Stages of the Recently
+    Domesticated American Cranberry
+  authors:
+  - Luis Diaz-Garcia
+  - Giovanny Covarrubias-Pazaran
+  - Jennifer Johnson-Cicalese
+  - Nicholi Vorsa
+  - Juan Zalapa
+  publisher: Frontiers in Plant Science
+  date: '2020-12-16'
+  link: https://doi.org/gp58qn
+  image: https://www.frontiersin.org/files/Articles/607770/fpls-11-607770-HTML/image_m/fpls-11-607770-g002.jpg
+  tags:
+  - cranberry
+  - structure
+  - genetic diversity
+  - domestication
+- id: doi:10.3389/fpls.2021.633310
+  title: Chromosome-Level Genome Assembly of the American Cranberry (Vaccinium macrocarpon
+    Ait.) and Its Wild Relative Vaccinium microcarpum
+  authors:
+  - Luis Diaz-Garcia
+  - Luis Fernando Garcia-Ortega
+  - "Maria Gonz\xE1lez-Rodr\xEDguez"
+  - Luis Delaye
+  - Massimo Iorizzo
+  - Juan Zalapa
+  publisher: Frontiers in Plant Science
+  date: '2021-02-10'
+  link: https://doi.org/gp58qp
+  image: https://www.frontiersin.org/files/Articles/633310/fpls-12-633310-HTML-r1/image_m/fpls-12-633310-g001.jpg
+  tags:
+  - cranberry
+  - genome assembly
+- id: doi:10.1016/j.pbi.2021.102150
+  title: Re-imagining crop domestication in the era of high throughput phenomics
+  authors:
+  - David L. Van Tassel
+  - Lee R. DeHaan
+  - Luis Diaz-Garcia
+  - Jenna Hershberger
+  - Matthew J. Rubin
+  - Brandon Schlautman
+  - Kathryn Turner
+  - Allison J. Miller
+  publisher: Current Opinion in Plant Biology
+  date: '2022-02-01'
+  link: https://doi.org/gnzbd6
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1369526621001515-gr1_lrg.jpg
+  tags:
+  - phenomics
+  - phenomic selection
+- id: doi:10.7717/peerj.5461
+  title: Image-based phenotyping for identification of QTL determining fruit shape
+    and size in American cranberry (<i>Vaccinium macrocarpon</i>L.)
+  authors:
+  - Luis Diaz-Garcia
+  - Giovanny Covarrubias-Pazaran
+  - Brandon Schlautman
+  - Edward Grygleski
+  - Juan Zalapa
+  publisher: PeerJ
+  date: '2018-08-15'
+  link: https://doi.org/gk9xd5
+  image: images/papers/peerj_cranberry.png
+  tags:
+  - cranberry
+  - image analysis
+  - genetic mapping
