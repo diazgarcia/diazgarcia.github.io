@@ -1,3 +1,14 @@
+- id: doi:10.3390/genes12121962
+  image: https://www.mdpi.com/genes/genes-12-01962/article_deploy/html/images/genes-12-01962-g003.png
+  tags:
+    - grape
+    - anthocyanin acylation
+    - anthocyanins
+    - geneetic mapping
+    - wine pigments
+    - rhAmpSeq
+    - fruit chemistry
+
 - id: doi:10.1007/s00438-018-1464-z
   image: images/papers/color_cranberry.png
   tags:
