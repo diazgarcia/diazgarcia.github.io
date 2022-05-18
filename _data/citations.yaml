@@ -133,6 +133,24 @@
   tags:
   - cranberry
   - genome assembly
+- id: doi:10.1016/j.pbi.2021.102150
+  title: Re-imagining crop domestication in the era of high throughput phenomics
+  authors:
+  - David L. Van Tassel
+  - Lee R. DeHaan
+  - Luis Diaz-Garcia
+  - Jenna Hershberger
+  - Matthew J. Rubin
+  - Brandon Schlautman
+  - Kathryn Turner
+  - Allison J. Miller
+  publisher: Current Opinion in Plant Biology
+  date: '2022-02-01'
+  link: https://doi.org/gnzbd6
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1369526621001515-gr1_lrg.jpg
+  tags:
+  - phenomics
+  - phenomic selection
 - id: doi:10.7717/peerj.5461
   title: Image-based phenotyping for identification of QTL determining fruit shape
     and size in American cranberry (<i>Vaccinium macrocarpon</i>L.)
@@ -158,21 +176,3 @@
   - cranberry
   - image analysis
   - genetic mapping
-- id: doi:10.1016/j.pbi.2021.102150
-  title: Re-imagining crop domestication in the era of high throughput phenomics
-  authors:
-  - David L. Van Tassel
-  - Lee R. DeHaan
-  - Luis Diaz-Garcia
-  - Jenna Hershberger
-  - Matthew J. Rubin
-  - Brandon Schlautman
-  - Kathryn Turner
-  - Allison J. Miller
-  publisher: Current Opinion in Plant Biology
-  date: '2022-02-01'
-  link: https://doi.org/gnzbd6
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1369526621001515-gr1_lrg.jpg
-  tags:
-  - phenomics
-  - phenomic selection
