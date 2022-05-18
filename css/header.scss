@@ -24,6 +24,10 @@ header {
     transition: background 1s;
   }
 
+  nav:hover{
+    background: #fff;
+  }
+
   .logo_row {
     display: inline-flex;
     justify-content: center;
