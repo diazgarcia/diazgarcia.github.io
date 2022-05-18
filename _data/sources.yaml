@@ -1,3 +1,51 @@
+- id: doi:10.1007/s00438-018-1464-z
+  image: images/papers/color_cranberry.png
+  tags:
+    - cranberry
+    - genetic mapping
+    - anthocyanins
+
+
+- id: doi:10.2135/cropsci2018.11.0692
+  image: images/papers/med.png
+  tags:
+    - experimental design
+    - resource allocation
+    - simulation
+    - plant breeding
+
+
+- id: doi:10.1371/journal.pone.0222451
+  image: images/papers/internal_structure.png
+  tags:
+    - cranberry
+    - image analysis
+    - fruit quality traits
+    
+- id: doi:10.1016/j.plantsci.2019.110319
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0168945219308982-gr6.sml
+  tags:
+    - kura clover
+    - image analysis
+    - genetic diversity
+    - core collection
+    - germplasm conservation
+
+
+- id: doi:10.3389/fpls.2020.607770
+  image: https://www.frontiersin.org/files/Articles/607770/fpls-11-607770-HTML/image_m/fpls-11-607770-g002.jpg
+  tags:
+    - cranberry
+    - structure
+    - genetic diversity
+    - domestication
+
+- id: doi:10.3389/fpls.2021.633310
+  image: https://www.frontiersin.org/files/Articles/633310/fpls-12-633310-HTML-r1/image_m/fpls-12-633310-g001.jpg
+  tags:
+    - cranberry
+    - genome assembly
+
 - id: doi:10.7717/peerj.5461
   image: images/papers/peerj_cranberry.png
   tags:
@@ -11,3 +59,4 @@
   tags:
     - phenomics
     - phenomic selection
+
