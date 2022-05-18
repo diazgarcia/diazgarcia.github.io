@@ -31,7 +31,7 @@ Our breeding program develops high-quality grape cultivars and rootstocks resist
 
 {%
   include feature.html
-  image="images/errantenoir.png"
+  image="images/germplasm_andy/errante_noir.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -52,7 +52,7 @@ Our breeding program at UC Davis houses one of the largest collection of Vitis g
 
 {%
   include feature.html
-  image="images/ambuloblanc.png"
+  image="images/germplasm_andy/camminare_noir.jpg"
   link="tools"
   title="Our germplasm resources"
   flip=true
@@ -74,7 +74,7 @@ We are a multidisciplinary team working towards the generation of high-quality g
 
 {%
   include feature.html
-  image="images/paseantenoir.png"
+  image="images/germplasm_andy/ambulo_blanc.jpg"
   link="team"
   title="Our Team"
   text=text
