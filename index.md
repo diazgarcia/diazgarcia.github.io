@@ -38,7 +38,7 @@ Our breeding program develops high-quality grape cultivars and rootstocks resist
 %}
 
 {% capture text %}
-Our breeding program at UC Davis houses one of the largest collection of Vitis germplasm of the world. Germplasm collections made by Drs. Harold Olmo and Andy Walker for more than six decades resulted in more than xxxx accessions, representing xxx species and more than xxx countries. 
+Our breeding program at UC Davis houses one of the largest collection of Vitis germplasm of the world. Germplasm collections made by Drs. [Harold Olmo](https://wineserver.ucdavis.edu/people/harold-olmo#/) and [Andy Walker](https://wineserver.ucdavis.edu/people/m-walker#/) for more than six decades resulted in more than xxxx accessions, representing xxx species and more than xxx countries. 
 
 {%
   include link.html
