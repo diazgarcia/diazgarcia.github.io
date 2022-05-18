@@ -1,6 +1,31 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.3390/genes12121962
+  title: The Genetic Basis of Anthocyanin Acylation in North American Grapes (Vitis
+    spp.)
+  authors:
+  - Avinash Karn
+  - Luis Diaz-Garcia
+  - Noam Reshef
+  - Cheng Zou
+  - David C. Manns
+  - Lance Cadle-Davidson
+  - Anna Katharine Mansfield
+  - Bruce I. Reisch
+  - Gavin L. Sacks
+  publisher: Genes
+  date: '2021-12-09'
+  link: https://doi.org/gp58qq
+  image: https://www.mdpi.com/genes/genes-12-01962/article_deploy/html/images/genes-12-01962-g003.png
+  tags:
+  - grape
+  - anthocyanin acylation
+  - anthocyanins
+  - geneetic mapping
+  - wine pigments
+  - rhAmpSeq
+  - fruit chemistry
 - id: doi:10.1007/s00438-018-1464-z
   title: Massive phenotyping of multiple cranberry populations reveals novel QTLs
     for fruit anthocyanin content and other important chemical traits
