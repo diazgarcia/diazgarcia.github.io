@@ -4,7 +4,7 @@ title: Home
 
 # GRAPEVINE BREEDING PROGRAM
 
-The Grapevine Breeding Program at The University of California - Davis is part of the [Viticulture and Enology Department](https://wineserver.ucdavis.edu/#/), which for more than 135 years, has driven innovation in grape growing and winemaking for California, as well as the rest of the world. 
+The Grapevine Breeding Program at The University of California - Davis is part of the [Viticulture and Enology Department](https://wineserver.ucdavis.edu/#/), which for more than 135 years, has driven innovation in grape growing and winemaking for California, as well as for the rest of the world. 
 
 
 
@@ -17,7 +17,7 @@ The Grapevine Breeding Program at The University of California - Davis is part o
 # Highlights
 
 {% capture text %}
-Our breeding program develops high-quality grape cultivars and rootstocks resistant/tolerant to diseases, pests, and other stresses in the environment. For this purpose, we use the large genetic and phenotypic diversity found across many American Vitis species. Our group collaborates with other research groups and extensionists in areas such as genomics, population genetics, plant physiology, machine learning, engineering, and others. 
+Our breeding program develops high-quality grape cultivars and rootstocks resistant/tolerant to diseases, pests, and other stresses in the environment. For this purpose, we use the large genetic and phenotypic diversity found across many American *Vitis* species. Our group collaborates with other research groups and extensionists in areas such as genomics, population genetics, plant physiology, machine learning, engineering, and others. 
 
 {%
   include link.html

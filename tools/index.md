@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-tools"></i>Germplasm
 
-Very soon
+Very soon!
 
 {% include search-info.html %}
 
