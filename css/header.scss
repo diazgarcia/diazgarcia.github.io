@@ -19,6 +19,14 @@ header {
   & * {
     font-family: $sans;
   }
+  
+  nav{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: background 1s;
+  }
 
   .logo_row {
     display: inline-flex;
