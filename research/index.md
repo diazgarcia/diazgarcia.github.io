@@ -15,7 +15,7 @@ In modern times, the development of new sequencing and high-throughput phenotypi
 
 #### 2. Functional genomics #####
 
-New technologies allow the discovery of genes driving phenotypic variation. Our large germplasm collection spanning more than xxx Vitis species harbor tremendous phenotypic variation, some of which is still unexploited. Through a strong collaboration network, the Diaz-Garcia Lab aims to discover, understand, catalog, conserve, and exploit useful allelic variation to support grapevine breeding.  
+New technologies allow the discovery of genes driving phenotypic variation. Our large germplasm collection spanning more than 40 *Vitis* species harbor tremendous phenotypic variation, some of which is still unexploited. Through a strong collaboration network, the Diaz-Garcia Lab aims to discover, understand, catalog, conserve, and exploit useful allelic variation to support grapevine breeding.  
 
 #### 3. Phenomics ####
 
