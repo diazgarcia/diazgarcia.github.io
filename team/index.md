@@ -87,7 +87,7 @@ We are hiring a Ph.D. student to work in grape genetics and genomics, particular
 Please email Luis Diaz-Garcia (diazgarcia@ucdavis.edu) the following documents. The position will remain open and we will receive applications until filling the position.
 
  - CV
- - Cover letter describing how candidates meet the above qualifications,and the candidate’s research interests and career goals
+ - Cover letter describing how candidates meet the above qualifications, and the candidate’s research interests and career goals
  - Most recent transcripts (undergraduate or graduate)
  - Contact information (email and current position) for three references
  - For international students, please check the [SISS](https://siss.ucdavis.edu) for more information about VISA, TOEFL, employment authorization, and other requirements
