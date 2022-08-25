@@ -5,7 +5,6 @@ description: Field Manager
 tier: second
 aliases:
   - Veronica Nunez
-  - Veronica Nuñez
 links:
   email: vcnunez@ucdavis.edu
 ---
