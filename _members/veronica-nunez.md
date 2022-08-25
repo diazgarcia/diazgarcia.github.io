@@ -10,4 +10,4 @@ links:
   email: vcnunez@ucdavis.edu
 ---
 
-I'm the field manager in the Diaz-Garcia Lab
+I'm the field manager in the Diaz-Garcia Lab. I supervise field and greenhouse operations, data collections and management.
