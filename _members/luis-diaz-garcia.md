@@ -1,6 +1,6 @@
 ---
 name: Luis Diaz-Garcia
-image: images/diazg.png
+image: images/diazgarcia.png
 description: Principal Investigator
 tier: first
 aliases:
