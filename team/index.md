@@ -9,24 +9,12 @@ nav:
 
 {% include section.html %}
 
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: pi"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: phd"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: programmer"
-%}
+{% include list.html data="members" component="portrait" filters="tier: first" %}
+{% include list.html data="members" component="portrait" filters="tier: second" %}
+{% include list.html data="members" component="portrait" filters="tier: third" %}
+{% include list.html data="members" component="portrait" filters="tier: " %}
+
+
 {:.center}
 
 {% include section.html background="images/niebla2.png" dark=false%}
