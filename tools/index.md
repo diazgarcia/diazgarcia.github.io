@@ -20,6 +20,6 @@ Our grapevine breeding program harbors a large collection of *Vitis* germplasm a
 
 {% include section.html %}
 
-## More
+## More to come!
 
 {% include list.html component="card" data="tools" filters="group: more" style="small" %}
