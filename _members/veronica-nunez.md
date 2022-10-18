@@ -1,5 +1,5 @@
 ---
-name: Veronica Nuñez
+name: Veronica Nunez
 image: images/veronica.png
 description: Field Manager
 tier: second
