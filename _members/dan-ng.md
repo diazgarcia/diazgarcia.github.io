@@ -9,4 +9,4 @@ links:
   email: dang@ucdavis.edu
 ---
 
-I'm the lab manager in the Diaz-Garcia Lab.
+I'm the lab manager and cross master in the Diaz-Garcia Lab.
