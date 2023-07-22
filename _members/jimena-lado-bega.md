@@ -9,5 +9,4 @@ links:
   email: jladobega@ucdavis.edu
 ---
 
-Agricultural Engineer (Fruit Grower) | MSc student. Agricultural Sciences - Soil Sciences
-Assistant in Edaphology and Soil Management and Conservation Courses, and researcher in Departamento de Suelos y Aguas - Facultad de Agronomía, Universidad de la República Oriental del Uruguay.
+I'm a visiting scientist from Universidad de la Republica Oriental del Uruguay. 
