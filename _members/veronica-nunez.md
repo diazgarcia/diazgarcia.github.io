@@ -1,6 +1,6 @@
 ---
 name: Veronica Nunez
-image: images/veronica.png
+image: images/labmembers/veronica.png
 description: Field manager
 tier: second
 aliases:

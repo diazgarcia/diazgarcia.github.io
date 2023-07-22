@@ -1,6 +1,6 @@
 ---
 name: Dan Ng
-image: images/dan_ng.jpeg
+image: images/labmembers/dan_ng.jpeg
 description: Lab manager
 tier: second
 aliases:

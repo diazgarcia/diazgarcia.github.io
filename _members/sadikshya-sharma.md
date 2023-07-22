@@ -1,6 +1,6 @@
 ---
 name: Sadikshya Sharma
-image: images/sadikshya.jpg
+image: images/labmembers/sadikshya.jpg
 description: Ph.D. student
 tier: third 
 aliases:

@@ -1,6 +1,6 @@
 ---
 name: You!
-image: images/new_member.png
+image: images/labmembers/new_member.png
 description: Prospective student
 tier: third
 ---
