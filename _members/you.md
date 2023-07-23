@@ -5,4 +5,4 @@ description: Prospective student
 tier: third
 ---
 
-This could be you, please see our lab opening below!
+This could be you! 
