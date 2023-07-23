@@ -1,7 +1,7 @@
 ---
 name: Mikayla Bailey
 image: images/labmembers/mikayla.jpg
-description: Intern
+description: Undergraduate Student
 tier: third 
 aliases:
   - Mikayla Bailey
