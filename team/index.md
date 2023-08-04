@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-{% include section.html %}
+{% include section.html dark=true%}
 
 {% include list.html data="members" component="portrait" filters="tier: first" %}
 {% include list.html data="members" component="portrait" filters="tier: second" %}
