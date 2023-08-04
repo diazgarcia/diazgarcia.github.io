@@ -17,7 +17,7 @@ nav:
 
 {:.center}
 
-{% include section.html background="images/niebla2.png" dark=false%}
+{% include section.html background="images/niebla2.png" dark=true%}
 
 
 ### Join us!
