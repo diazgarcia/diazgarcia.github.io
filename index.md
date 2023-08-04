@@ -10,7 +10,7 @@ The Grapevine Breeding Program at The University of California - Davis is part o
 
 {% include section.html full=true%}
 
-{% include banner.html image="images/bar.png" %}
+{% include banner.html image="images/bar.jpg" %}
 
 {% include section.html dark=true%}
 
