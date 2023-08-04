@@ -7,17 +7,17 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-{% include section.html dark=true%}
+{% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="tier: first" dark=true %}
-{% include list.html data="members" component="portrait" filters="tier: second" dark=true %}
-{% include list.html data="members" component="portrait" filters="tier: third" dark=true %}
-{% include list.html data="members" component="portrait" filters="tier: " dark=true %}
+{% include list.html data="members" component="portrait" filters="tier: first" %}
+{% include list.html data="members" component="portrait" filters="tier: second" %}
+{% include list.html data="members" component="portrait" filters="tier: third" %}
+{% include list.html data="members" component="portrait" filters="tier: " %}
 
 
 {:.center}
 
-{% include section.html background="images/niebla2.png" dark=true%}
+{% include section.html background="images/niebla2.png" %}
 
 
 ### Join us!
