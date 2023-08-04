@@ -11,9 +11,9 @@ header {
   align-items: center;
   flex-wrap: wrap;
   gap: 20px;
-  padding: 100px; //it was 30
+  padding: 30px;
   color: $white;
-  background: $gray-500;
+  //background: $gray-800;
   box-shadow: $shadow;
 
   & * {
