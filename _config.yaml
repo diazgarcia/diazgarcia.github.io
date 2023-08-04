@@ -4,8 +4,8 @@
 title: Diaz-Garcia Lab
 description: Grapevine Breeding at The University of California - Davis
 logo: images/logo_animated2_copy.svg
-#header: images/niebla.png
-#footer: images/niebla.png
+header: images/niebla.png
+footer: images/niebla.png
 baseurl: ""
 
 # site social media and other links
