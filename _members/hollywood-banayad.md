@@ -5,8 +5,7 @@ description: Ph.D. student
 tier: third 
 aliases:
   - Hollywood Banayad
-links:
-  email: hdbanayad@ucdavis.edu
+
   
 ---
 
