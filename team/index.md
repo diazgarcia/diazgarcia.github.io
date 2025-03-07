@@ -17,8 +17,12 @@ nav:
 
 {:.center}
 
+## **Past Members**
+{% include list.html data="members" component="portrait" filters="tier: past" %}
+{:.center}
+
+
 {% include section.html background="images/niebla2.png" %}
 
-
 ### Join us!
-Prospective graduate students interested in doing grapevine breeding/genetics/genomics research are encouraged to apply through the [Agronomy and Horticulture graduate program](https://ggha.ucdavis.edu). Depending on common interests, experience, and academic background, students enrolled in Viticulture and Enology BS/MS programs at UC Davis might join the lab. We are a multidisciplinary team; prospective members of the lab (undergrads, grads, or postdocs) with computing science, engineering, physics, or other similar fields, are welcome to discuss lab opportunities. For international students, please consider funding agencies in your respective country. In any case, please send a letter/email explaining your interests and reasons to join the lab, along with a CV detailing your academic background, and relevant research experience to diazgarcia@ucdavis.edu. Before contacting, please research the lab, read our papers, and think about how we could work together. 
+Prospective graduate students interested in grapevine breeding, genetics, and genomics research are encouraged to apply through the [Agronomy and Horticulture graduate program](https://ggha.ucdavis.edu). We are a multidisciplinary team, and prospective lab members (undergraduates, graduate students, or postdocs) with backgrounds in biology, genetics, agronomy, computer science, physics, or related fields are welcome to discuss lab opportunities. For international students, please explore funding options available through agencies in your respective countries. If you are interested in joining the lab, please send a letter or email explaining your interests and reasons for applying, along with a CV detailing your academic background and relevant research experience, to diazgarcia at ucdavis.edu. Before reaching out, please take the time to research the lab, read our publications, and consider how we could collaborate effectively.

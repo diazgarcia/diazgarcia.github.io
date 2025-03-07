@@ -2,7 +2,7 @@
 name: Dan Ng
 image: images/labmembers/dan_ng.jpeg
 description: Lab manager
-tier: second
+tier: past
 aliases:
   - Dan Ng
 

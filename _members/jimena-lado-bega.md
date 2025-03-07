@@ -2,7 +2,7 @@
 name: Jimena Lado Bega
 image: images/labmembers/jimena_lado.jpg
 description: Visiting MSc student
-tier: third
+tier: past
 aliases:
   - Jimena Lado Bega
 

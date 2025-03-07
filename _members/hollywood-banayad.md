@@ -1,7 +1,7 @@
 ---
 name: Hollywood Banayad
 image: images/labmembers/hollywood.jpg
-description: Ph.D. student
+description: M.Sc. student
 tier: third 
 aliases:
   - Hollywood Banayad
