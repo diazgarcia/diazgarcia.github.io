@@ -20,7 +20,7 @@ h4 {
 h1 {
   font-size: 1.4rem;
   letter-spacing: 2px;
-  text-transform: none;
+  text-transform: lowercase;
   text-align: center;
 
   & + p {
@@ -31,15 +31,18 @@ h1 {
 h2 {
   font-size: 1.3rem;
   letter-spacing: 1px;
+  text-transform: lowercase;
   text-align: center;
 }
 
 h3 {
   font-size: 1.2rem;
   text-align: center;
+  text-transform: lowercase;
 }
 
 h4 {
   font-size: 1rem;
+  text-transform: lowercase;
   text-align: left;
 }
