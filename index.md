@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# University of California, Davis | Grapevien Breeding
+# University of California, Davis | Grapevine Breeding
 
 The Grapevine Breeding Program at The University of California - Davis is part of the [Viticulture and Enology Department](https://wineserver.ucdavis.edu/#/), which has been at the forefront of innovation in grape growing and winemaking for over 135 years, shaping the industry in California and beyond. 
 
