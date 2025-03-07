@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+
 // colors for links, tags, etc.
 // see colors.scss for available colors
 $accent: $blue-gray-500;
@@ -7,9 +9,9 @@ $dark-accent: $light-blue-900;
 
 // font types
 // also see /_includes/fonts.html to change fonts
-$serif: "Barlow", sans-serif;//"Lora", serif; // font name, fallback font type
-$sans: "Barlow", sans-serif;
-$mono: "Barlow", sans-serif;
+$serif: "Poppins", sans-serif; // Set Poppins as the primary font
+$sans: "Poppins", sans-serif;  // Apply Poppins to sans-serif elements
+$mono: "Courier New", monospace; // Keep mono as a true monospace font
 
 // line spacing
 $spacing: 1.5;
