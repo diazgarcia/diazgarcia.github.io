@@ -1,7 +1,7 @@
 ### basic settings
 
 # site properties and page defaults
-title: DIAZ-GARCIA LAB
+title: diaz-garcia lab
 description: Grapevine Breeding at The University of California - Davis
 logo: images/logo_animated2_copy.svg
 header: images/niebla.png
@@ -13,7 +13,6 @@ links:
   email: diazgarcia@ucdavis.edu
   google-scholar: Luis Diaz-Garcia
   github: diazgarcia
-  twitter: errantenoir
 
 ### advanced settings
  
