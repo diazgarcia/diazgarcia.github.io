@@ -17,7 +17,7 @@ nav:
 
 {:.center}
 
-## **Past Members**
+## *Past Members*
 {% include list.html data="members" component="portrait" filters="tier: past" %}
 {:.center}
 
