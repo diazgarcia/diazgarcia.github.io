@@ -35,11 +35,13 @@ body {
   }
 
   section:nth-of-type(even) {
-    background: $white;
+    background: #111111; // Dark gray instead of white
+    color: #ffffff;
   }
 
-  section:nth-of-type(even) {
-    background: $gray-50;
+  section:nth-of-type(odd) {
+    background: #000000; // Black background for odd sections
+    color: #ffffff;
   }
 
   section:last-of-type {

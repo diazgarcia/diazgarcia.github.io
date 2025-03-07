@@ -66,3 +66,33 @@ button:hover {
     background-color: #444444;
     color: #FFD700; // Gold on hover
 }
+
+// Ensure all sections, lists, and included components use the dark theme
+section, .content, .post, .list, .card, .search-info {
+    background-color: #000000 !important;
+    color: #ffffff !important;
+}
+
+// Override specific areas that might have a forced white background
+div, p, span {
+    background-color: transparent !important;
+    color: #ffffff !important;
+}
+
+// Fix for search and list components inside sections
+.search-info, .list, .card {
+    background-color: #111111 !important; // Slightly lighter black for contrast
+    color: #ffffff !important;
+}
+
+// Adjust buttons inside sections (if needed)
+button {
+    background-color: #222222 !important;
+    color: #ffffff !important;
+    border: 1px solid #ffffff !important;
+}
+
+button:hover {
+    background-color: #444444 !important;
+    color: #FFD700 !important;
+}
